@@ -272,14 +272,16 @@ x ✗
 ## ✈ Related Survey
 
 In addition, several recent and concurrent surveys have discussed multimodal or video reasoning. The works listed below offer complementary perspectives to ours, reflecting the field’s rapid and parallel development:
-- [Awesome-Streaming-Video-Understanding](https://github.com/sotayang/Awesome-Streaming-Video-Understanding)
 - [Awesome-Video-Reasoning](https://github.com/Video-Reason/Awesome-Video-Reasoning)
-- [Awesome-Multimodal-Spatial-Reasoning](https://github.com/zhengxuJosh/Awesome-Multimodal-Spatial-Reasoning)
-- [Awesome-Video-LMM-Post-Training](https://github.com/yunlong10/Awesome-Video-LMM-Post-Training)
 - [Awesome-LLMs-for-Video-Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding)
-- [Awesome-MCoT](https://github.com/yaotingwangofficial/Awesome-MCoT)
-- [Awesome World Models for Robotics](https://github.com/leofan90/Awesome-World-Models)
+- [Awesome-Multimodal-Spatial-Reasoning](https://github.com/zhengxuJosh/Awesome-Multimodal-Spatial-Reasoning)
+- [Awesome-Streaming-Video-Understanding](https://github.com/sotayang/Awesome-Streaming-Video-Understanding)
+- [Awesome-Video-LMM-Post-Training](https://github.com/yunlong10/Awesome-Video-LMM-Post-Training)
+---
 - [Awesome-World-Models](https://github.com/knightnemo/Awesome-World-Models)
+- [Awesome-World-Models-for-Robotics](https://github.com/leofan90/Awesome-World-Models)
+---
+- [Awesome-MCoT](https://github.com/yaotingwangofficial/Awesome-MCoT)
 - [Awesome-Latent-CoT](https://github.com/EIT-NLP/Awesome-Latent-CoT)
 - [Awesome-Latent-Space](https://github.com/YU-deep/Awesome-Latent-Space)
 
